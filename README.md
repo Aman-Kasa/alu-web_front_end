@@ -1,1 +1,0 @@
-![Responsive Design!!](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.avatarstudios.in%2Fresponsive-web-design-techniques&psig=AOvVaw2uyhjFzAltMfZGmsWwV8pA&ust=1728724518987000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCGoun-hYkDFQAAAAAdAAAAABAE)
