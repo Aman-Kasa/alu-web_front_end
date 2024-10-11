@@ -1,1 +1,1 @@
-![responsive designs](responsive-web-design-techniques.png)
+![Alt text](responsive-web-design-techniques.png)
